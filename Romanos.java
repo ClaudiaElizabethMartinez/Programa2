@@ -108,7 +108,7 @@ public class Romanos {
 		   break;
 		   }
 		   
-		   JOptionPane.showMessageDialog(null, "El equivalente en numero romano es:" + millares + centenas + decenas + unidades);
+		   JOptionPane.showMessageDialog(null,"El numero ingresado fue " +valor+ "el resultado en numero romano es:" + millares + centenas + decenas + unidades);
 		   }  
 
 
